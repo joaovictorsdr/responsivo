@@ -1,0 +1,15 @@
+body{
+    margin: 0%;
+    padding: 58px 0;
+    background-color: lawngreen;
+    color: azure;
+}
+
+
+.container{
+    width: 80%;
+}
+.flex-outer,
+.flex-inner{
+    list-style-type: none;
+}
